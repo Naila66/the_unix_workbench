@@ -24,5 +24,5 @@ else
 fi
 }
 echo "Welcome to guessing game"
-echo "Guess How many files are in the current directory:"
+echo "Guess how many files are in the current directory:"
 guess_name 
